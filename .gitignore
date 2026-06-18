@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+faiz-ref/
+*.zip
+.DS_Store
+node_modules/
+package.json
+package-lock.json
+model_test
+test.ogg
+test_model.rbxm
+test*.zip
